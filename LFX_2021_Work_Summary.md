@@ -71,3 +71,4 @@ Work Summary
 ### Week 12 (November 19 - November 25, 2021)
 
 - [x] [moja-global/FLINT.Cloud#50](https://github.com/moja-global/FLINT.Cloud/pull/50): Moved dictionary inserts to its definition.
+- [x] [moja-global/FLINT.Cloud#52](https://github.com/moja-global/FLINT.Cloud/pull/52): Update `FLINT.Example` image location to GitHub container registry.
