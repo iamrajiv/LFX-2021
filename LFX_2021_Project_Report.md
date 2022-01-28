@@ -23,7 +23,7 @@ I am very glad that I had the opportunity to take part in the Linux Foundation M
 
 - Got involved with an amazing moja global community.
 - Got to know about The Full Lands Integration Tool (FLINT).
-- Learned about Design System, Sphinx, Storybook, Terraform, Vue.js.
+- Learned about Design System, Sphinx, Storybook, Terraform, Vue.
 - Got a deeper understanding of Docker, GitHub Actions, Google Cloud Platform, JavaScript, REST API, Python.
 
 ## Acknowledgments
