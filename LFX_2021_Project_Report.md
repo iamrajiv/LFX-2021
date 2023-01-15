@@ -15,7 +15,7 @@ Project Report
 
 This is the project report for **Cloud native measurement, reporting and validation of carbon emissions** which was completed during Linux Foundation Mentorship Fall Term 2021. The status of the project can be regarded as complete due to the fact that all pull requests have been merged and all the initial premises of the project have been fulfilled.
 
-[https://github.com/iamrajiv/LFX-2021](https://github.com/iamrajiv/LFX-2021) repository contains details about my work in Linux Foundation Mentorship Fall Term 2021.
+Summary of my work can be found at [LFX 2021 Work Summary](LFX_2021_Work_Summary.md).
 
 ## Learnings
 

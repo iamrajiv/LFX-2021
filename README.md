@@ -14,7 +14,7 @@ Cloud native measurement, reporting and validation of carbon emissions
 
 ## About
 
-This repository contains details about my work in Linux Foundation Mentorship Fall Term 2021. I participated with moja global, and my project was on Cloud native measurement, reporting and validation of carbon emissions.
+This repository contains details about my work in Linux Foundation Mentorship Fall Term 2021. I participated with moja global, and my project was on **Cloud native measurement, reporting and validation of carbon emissions**.
 
 ## Table Of Contents
 

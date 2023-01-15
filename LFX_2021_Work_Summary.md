@@ -11,7 +11,7 @@ Work Summary
 </h3>
 </div>
 
-### Prior Work:
+### Prior Work
 
 - [x] [#16](https://github.com/moja-global/FLINT-UI/pull/16): Added installation guidelines in README on how to set up and run FLINT UI locally.
 - [x] [#32](https://github.com/moja-global/FLINT-UI/pull/32): Added Storybook support to manage components, stories, and documentation.
@@ -33,7 +33,6 @@ Work Summary
 ### Week 3 (September 17 - September 23, 2021)
 
 - [x] [#78](https://github.com/moja-global/FLINT-UI/pull/78): Improved toast notifications of Help, Point, RothC Specification, and Version by adding more meaningful messages.
-
 - [x] [#80](https://github.com/moja-global/FLINT-UI/pull/80): Added stories for the button, card, and footer component in Storybook.
 
 ### Week 4 (September 24 - September 30, 2021)
