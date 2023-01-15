@@ -12,7 +12,7 @@ Cloud native measurement, reporting and validation of carbon emissions
 <a href="https://github.com/iamrajiv/lfx-2021/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/lfx-2021?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 </div>
 
-## Linux Foundation Mentorship Fall Term 2021
+## About
 
 This repository contains details about my work in Linux Foundation Mentorship Fall Term 2021. I participated with moja global, and my project was on Cloud native measurement, reporting and validation of carbon emissions.
 
